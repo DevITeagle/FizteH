@@ -1298,6 +1298,12 @@ textarea.input {
 }
 
 @media (max-width: 800px) {
+  .header__logo {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 1 110px;
+            flex: 0 1 110px;
+  }
+
   .top-products__item {
     -webkit-box-flex: 0;
         -ms-flex: 0 1 50%;
