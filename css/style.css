@@ -1458,6 +1458,10 @@ textarea.input {
     display: block;
   }
 
+  .page {
+    padding: 105px 0px 0px 0px;
+  }
+
   .document-page__btn {
     padding: 35px 22.8%;
   }
